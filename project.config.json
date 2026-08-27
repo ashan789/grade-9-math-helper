@@ -1,0 +1,10 @@
+{
+  "description": "九年级数学错题助手",
+  "packOptions": { "ignore": ["server", "api", "node_modules"] },
+  "setting": { "urlCheck": true, "es6": true, "enhance": true },
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "grade-9-math-helper",
+  "miniprogramRoot": "miniprogram/"
+}
+
